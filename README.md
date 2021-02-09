@@ -2,6 +2,8 @@
 Event Management System Mobile Flutter - 2020 Summer Internship Project
 
 This is a web application which is built for TUBITAK BILGEM's events. The user can become a member of the system, view the activities in a filtered way after becoming a member, participate in the events and ask questions at the events he/she attends. If the event attended by the user is 1 day later, a notification will be sent.
+
+
 I built mobile application with Flutter. Spring Boot is used for backend side, and PostgreSQL is used for database. In fact, this application is an application that allows the mobile application of the web application in my repositories(React).
 
 ### Application Examples
